@@ -1,0 +1,5 @@
+# Build and run artifacts — never part of the distribution.
+EXPORT_REPORT*.json
+.cache/
+__pycache__/
+*.pyc
