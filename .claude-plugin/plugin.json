@@ -1,0 +1,17 @@
+{
+  "name": "bounty-gate",
+  "version": "0.1.0",
+  "description": "Submission gating and program economics for AI-assisted vulnerability disclosure. A mechanical hard gate (anti-AI-slop, evidence floor, accepted-risk detection), expected-reward finding ranking, and license-gated competitive intake. Not a scanner.",
+  "author": {
+    "name": "Animesh Roy"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "bug-bounty",
+    "disclosure",
+    "triage",
+    "cvss",
+    "ghsa"
+  ]
+}
